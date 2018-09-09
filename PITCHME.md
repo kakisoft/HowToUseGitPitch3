@@ -181,7 +181,7 @@ midpoint
 
 <br>docker
 <div class="left">
-    <i class="fa fa-user-secret fa-5x" aria-hidden="true"> </i><br>
+    <i class="fab fa-docker fa-5x" aria-hidden="true"> </i><br>
     <a href="https://https://gitpitch.com/" class="pro-link">
     More details here.</a>
 </div>
