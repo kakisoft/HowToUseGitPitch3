@@ -119,25 +119,21 @@ theme-override : assets/css/PITCHME.css
 ---
 書き方は、**『@quote\[こんな感じ\]』** です。
 ---
-
-
-
+### スライドの遷移
+---
+現在、スライドの遷移は、
+「transition : convex」という設定です。
+---
+@transition[zoom-in fade-out]
+---
+@transition[concave]
 
 ---
-### フォントカラー
----
-@size[2.0em](@quote[こんな感じで])に、  
-
-フォントカラーを @color[#DC143C](自由に設定できる)  
-ようになりました。
----
-書き方は、**『@color\[blue\](こんな感じ)』** です。
-　  
-　  
-@size[1.1em](「@color」を記述し、\[色\] (文字))  
-と、記述します。
+書き方は、**『@quote\[こんな感じ\]』** です。
 ---
 
+convex, concave, default,
+fade, none, slide, zoom
 
 
 
