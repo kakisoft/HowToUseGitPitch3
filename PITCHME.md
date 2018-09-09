@@ -93,23 +93,20 @@ theme-override : assets/css/PITCHME.css
 ---
 @fa[check-square icon-size1](こんな風に)  
 　  
-@fa[code-fork    icon-size2](色々なアイコンが)  
+@fa[twitter      icon-size2](色々なアイコンが)  
 　  
-@fa[envelope     icon-size3](使えるようになっています)  
+@fa[github       icon-size3](使えるようになっています)  
 ---
-書き方は、**『@fa\[envelope サイズ\](テキスト)』** です。
-　  
-　  
-@size[1.1em](「@fa」を記述し、\[アイコン名 サイズ\] (文字))  
-と、記述します。  
-　  
+書き方は、**『@fa\[アイコン名 サイズ\](テキスト)』**   
+です。
+　  　  
 サイズと文字は省略可能です。
 ---
+アイコンギャラリーは [こちら](https://fontawesome.com/icons?from=io)です。
 
+---?image=assets/image/gitpitch-audience.jpg
 
-
-
-
+無料枠から探す場合、「Free」にチェックを入れておくといいかと思います。
 
 
 
