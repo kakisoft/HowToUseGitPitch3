@@ -94,8 +94,13 @@ theme-override : assets/css/PITCHME.css
 @size[1.1em](「@css」を記述し、\[クラス\] (文字))  
 と、記述します。
 ---
+
+---
+たいとる
 ---
 @title[Some custom label]
+
+## Your slide contents goes here.
 ---
 x
 ---
