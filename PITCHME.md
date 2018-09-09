@@ -108,7 +108,15 @@ theme-override : assets/css/PITCHME.css
 
 無料枠から探す場合、「Free」にチェックを  
 入れておくといいかと思います。
+---
 
+
+---
+引用
+---
+@quote[Beware of geeks bearing formulas.]
+---
+---
 
 
 
