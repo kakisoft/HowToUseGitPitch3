@@ -49,7 +49,7 @@ GitHubアカウントがあれば、マークダウンで
 
 書き方は、\@size[2.5em](こんな感じ) です。  
 　  
-
+<pre class="code" data-lang="" data-unlink>chage --list ユーザー名</pre>
 ---
 x
 ---
