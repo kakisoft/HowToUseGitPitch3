@@ -171,7 +171,7 @@ fade, none, slide, zoom
 ---
 書き方は、  
 ___
-@ snap\[ポジション\]<br>内容<br>@ snapend  
+@ snap\[ポジション\]<br>@size[0.7em](（内容）)<br>@ snapend  
 ___
 です。  
 　  
