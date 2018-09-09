@@ -91,11 +91,11 @@ theme-override : assets/css/PITCHME.css
 ---
 ### アイコン
 ---
-<i class="fab fa-aws"></i>
- - @fa[arrows gp-tip](こんな風に) |
+@fa[arrows gp-tip](こんな風に)
+
  - @fa[microphone gp-tip](色々なアイコンが) |
  - @fa[code-fork](使えるようになっています)) |
- - @fa[aws]](使えるようになっています))
+ - @fa[aws](使えるようになっています))
 ---
 書き方は、**『@fa\[fab fa-aws\](こんな感じ)』** です。
 　  
