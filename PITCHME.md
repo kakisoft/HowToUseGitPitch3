@@ -100,7 +100,8 @@ theme-override : assets/css/PITCHME.css
 書き方は、**『@fa\[アイコン名 サイズ\](テキスト)』**   
 です。
 　  
-サイズと文字は省略可能です。
+サイズと文字は省略可能です。  
+また、CSSを適用する事もできます。
 ---
 アイコンギャラリーは [こちら](https://fontawesome.com/icons?from=io)です。
 　  
@@ -112,16 +113,30 @@ theme-override : assets/css/PITCHME.css
 
 
 ---
-引用
+### 引用
 ---
-@quote[Beware of geeks bearing formulas.]
+@quote[こんな感じで、引用符を記述できます。]
 ---
+書き方は、**『@quote\[こんな感じ\]』** です。
 ---
 
 
 
 
+---
+### フォントカラー
+---
+@size[2.0em](@quote[こんな感じで])に、  
 
+フォントカラーを @color[#DC143C](自由に設定できる)  
+ようになりました。
+---
+書き方は、**『@color\[blue\](こんな感じ)』** です。
+　  
+　  
+@size[1.1em](「@color」を記述し、\[色\] (文字))  
+と、記述します。
+---
 
 
 
