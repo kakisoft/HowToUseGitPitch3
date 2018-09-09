@@ -92,7 +92,9 @@ theme-override : assets/css/PITCHME.css
 ### アイコン
 ---
 @fa[check-square icon-size1](こんな風に)  
+　  
 @fa[code-fork    icon-size2](色々なアイコンが)  
+　  
 @fa[envelope     icon-size3](使えるようになっています)  
 ---
 書き方は、**『@fa\[fab fa-aws\](こんな感じ)』** です。
