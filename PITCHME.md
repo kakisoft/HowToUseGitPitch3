@@ -179,7 +179,7 @@ midpoint
 ---
 ### 他にも色々できます
 
-<br>docker
+<br>
 <div class="left">
     <i class="fa fa-child fa-5x" aria-hidden="true"> </i><br>
     <a href="https://https://gitpitch.com/" class="pro-link">
