@@ -162,7 +162,7 @@ fade, none, slide, zoom
 @snapend
 
 @snap[west]
-並べる事が
+配置する事が
 @snapend
   
 @snap[midpoint]
