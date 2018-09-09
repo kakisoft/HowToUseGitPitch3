@@ -173,7 +173,7 @@ fade, none, slide, zoom
 ___
 @ snap\[ポジション\]<br>内容<br>@ snapend  
 ___
-です。
+です。  
 　  
 ポジションは、以下が設定できます。
 ```
