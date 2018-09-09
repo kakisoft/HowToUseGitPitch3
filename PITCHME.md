@@ -43,6 +43,33 @@ GitHubアカウントがあれば、マークダウンで
 @size[1.1em](「@size」を記述し、\[フォントサイズ\] (文字))  
 と、記述します。
 ---
+
+
+
+
+
+
+
+
+### フォントカラー
+---
+### @color[orange](ACME Corp Clearance Sale)
+
+#### Dynamite Deals - @color[#DC143C](Short Fuses) Included!
+
+---
+書き方は、**『@size\[2.5em\](こんな感じ)』** です。
+　  
+　  
+@size[1.1em](「@size」を記述し、\[フォントサイズ\] (文字))  
+と、記述します。
+---
+
+
+
+
+
+
 x
 ---
 
