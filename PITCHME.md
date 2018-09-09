@@ -78,7 +78,7 @@ theme-override : assets/css/PITCHME.css
 ```css
 .headline {
   color: blue;
-  font-size: 1.5em;
+  font-size: 1.1em;
 }
 ```
 こんな感じに @css[headline](使う事が出来ます。)
@@ -93,18 +93,18 @@ theme-override : assets/css/PITCHME.css
 ---
 @fa[check-square icon-size1](こんな風に)  
 　  
-@fa[twitter      icon-size2](色々なアイコンが)  
+@fa[twitter icon-size2](色々なアイコンが)  
 　  
-@fa[github       icon-size3](使えるようになっています)  
+@fa[github icon-size3](使えるようになっています)  
 ---
 書き方は、**『@fa\[アイコン名 サイズ\](テキスト)』**   
 です。
-　  　  
+　  
 サイズと文字は省略可能です。
 ---
 アイコンギャラリーは [こちら](https://fontawesome.com/icons?from=io)です。
 
----?image=assets/image/gitpitch-audience.jpg
+?image=assets/image/icon-gallery.png
 
 無料枠から探す場合、「Free」にチェックを入れておくといいかと思います。
 
