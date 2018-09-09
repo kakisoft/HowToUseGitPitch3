@@ -83,7 +83,7 @@ theme-override : assets/css/PITCHME.css
 ```css
 .headline {
   color: blue;
-  font-size: 1.2em;
+  font-size: 1.5em;
 }
 ```
 こんな感じに @css[headline](使う事が出来ます。)
