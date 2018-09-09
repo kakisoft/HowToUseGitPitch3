@@ -187,22 +187,14 @@ midpoint
 </div>
 <div class="right">
     <ul>
-        <li>Private Repos</li>
-        <li>Private URLs</li>
-        <li>Password-Protection</li>
-        <li>Image Opacity</li>
-        <li>SVG Image Support</li>
+        <li>HTMLのタグが</li>
+        <li>使えるので、</li>
+        <li>レイアウトは</li>
+        <li>基本的に</li>
+        <li>自由自在です。</li>
     </ul>
 </div>
 ---
-    <i class="fas fa-city fa-5x" aria-hidden="true"> </i><br>
-    <i class="fab fa-docker fa-5x" aria-hidden="true"> </i><br>
-    <i class="fa fa-user-secret fa-5x" aria-hidden="true"> </i><br>
-
-
-<i class="fas fa-user-secret"></i>
-
-
 ---
 ---
 ---
