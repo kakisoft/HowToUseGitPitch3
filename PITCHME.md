@@ -104,8 +104,7 @@ theme-override : assets/css/PITCHME.css
 ---
 アイコンギャラリーは [こちら](https://fontawesome.com/icons?from=io)です。
 
-?image=assets/image/icon-gallery.png
-
+?image=assets/image/icon-gallery.png  
 無料枠から探す場合、「Free」にチェックを入れておくといいかと思います。
 
 
