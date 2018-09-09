@@ -160,11 +160,11 @@ fade, none, slide, zoom
 @snapend
 
 @snap[east]
-できます
+配置
 @snapend
 
 @snap[south]
-配置する事が
+できます
 @snapend
 ---
 書き方は、  
