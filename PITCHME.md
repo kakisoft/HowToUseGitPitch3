@@ -95,7 +95,7 @@ theme-override : assets/css/PITCHME.css
 ---
 書き方は、**『@fa\[アイコン名 サイズ\](テキスト)』**   
 です。
-　  
+　  　  
 サイズと文字は省略可能です。  
 また、CSSを適用する事もできます。
 ---
@@ -182,8 +182,8 @@ midpoint
 <br>
 <div class="left">
     <i class="fa fa-child fa-5x" aria-hidden="true"> </i><br>
-    <a href="https://https://gitpitch.com/" class="pro-link">
-    More details here.</a>
+    <a href="https://gitpitch.com/docs/about/" class="pro-link">
+    詳細はこちら</a>
 </div>
 <div class="right">
     <ul>
@@ -197,6 +197,9 @@ midpoint
 ---
 興味が沸いた方は、是非使ってみて下さい。  
 https://gitpitch.com/
+---
+また、このスライドのリポジトリは、  
+[こちら](https://github.com/kakisoft/HowToUseGitPitch3)です。
 ---
 ---?image=assets/image/gitpitch-audience.jpg
 おわり
