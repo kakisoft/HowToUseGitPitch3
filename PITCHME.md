@@ -52,14 +52,8 @@ GitHubアカウントがあれば、マークダウンで
 <pre class="code" data-lang="" data-unlink>chage --list ユーザー名</pre>
 <pre class="code" data-lang="" data-unlink>@size[2.5em](こんな感じ)</pre>
 ---
-\@size[2.5em](こんな感じ)
-```js
-@size[2.5em](こんな感じ)
-console.log("@[1]と書くと、1行目がハイライトされます。");
-console.log("@[2-4]といったように");
-console.log("複数行選択も");
-console.log("可能です。");
-console.log("eof");
+---?gist=kakisoft/f085aa99f25cfcb506671fe3a6e2dd6d
+
 ```
 
 ---
