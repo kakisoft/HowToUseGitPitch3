@@ -1,6 +1,6 @@
 theme : beige
-theme-override : assets/css/PITCHME.css
-# theme-override : assets/css/PITCHME.codemax.css
+# theme-override : assets/css/PITCHME.css
+theme-override : assets/css/PITCHME.codemax.css
 highlight : hybrid
 logo : assets/image/logo.png
 #transition : zoom
