@@ -4,7 +4,7 @@
 ** ～応用編～
 
 スライドはこちら。  
-https://gitpitch.com/kakisoft/HowToUseGitPitch2
+https://gitpitch.com/kakisoft/HowToUseGitPitch3
 
 GitPitchの使い方（応用編）が、スライドを見ながら直感的に分かるようにしています。
 
