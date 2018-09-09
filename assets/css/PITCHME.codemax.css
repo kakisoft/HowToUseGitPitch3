@@ -5,7 +5,7 @@
  * https://github.com/gitpitch/gitpitch/wiki/Slideshow-Custom-CSS
  */
 
-body {
+ body {
   /* fallback for old browsers */
   background: #74ebd5;
   /* Chrome 10-25, Safari 5.1-6 */
@@ -22,7 +22,7 @@ body {
 .reveal pre code {
   font-size: 1.2em;
   line-height: 1.2;
-  max-height: 60vh !important;
+  max-height: 50vh !important;
   opacity: 0.95;
   border-radius: 10px;
 }
@@ -42,7 +42,6 @@ body {
   padding: 4px 15px;
   opacity: 0.75 !important;
   border-radius: 15px;
-  display: none;
 }
 
 .reveal div.left {

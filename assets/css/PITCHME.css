@@ -75,3 +75,7 @@ body {
 
 .gp-download { margin-left: 10px; }
 
+.headline {
+  color: gold;
+  text-transform: uppercase;
+}

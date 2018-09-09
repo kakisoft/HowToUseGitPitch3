@@ -30,11 +30,11 @@ GitHubアカウントがあれば、マークダウンで
 ---
 基本的な使い方は、[https://gitpitch.com/kakisoft/HowToUseGitPitch](こちらのスライド)  
 にて紹介しています。
-　  
+　  
 初めて使う方は、上記のスライドを先に、  
 ご参照頂けたらと思います。
 ---
-
+追加機能
 ---
 ## テーマ
 
@@ -72,19 +72,24 @@ GitHubアカウントがあれば、マークダウンで
 ---
 ### カスタムCSS
 ---
+PITCHME.yaml（設定ファイル）にて、  
+以下のように、カスタム CSSが設定できます。
+```
+theme-override : assets/css/PITCHME.css
+```
 
+---
+例えば、以下のような css を記述したとします。
 ```css
 .headline {
-  color: gold;
+  color: blue;
   text-transform: uppercase;
 }
-
-.byline {
-  color: gray;
-  font-size: 0.9em;
-  letter-spacing: 2px;
-}
 ```
+---
+### @css[headline](ACME Corp Clearance Sale)
+---
+---
 
 ---
 x
