@@ -53,7 +53,9 @@ GitHubアカウントがあれば、マークダウンで
 <pre class="code" data-lang="" data-unlink>@size[2.5em](こんな感じ)</pre>
 ---
 
-書き方は、**@size\[2.5em\](こんな感じ)**で、
+書き方は、**@size\[2.5em\](こんな感じ)** です。
+
+@size[1.5em](@sizeを記述し、後に、[フォントサイズ](文字))に、 
 
 ?gist=kakisoft/f085aa99f25cfcb506671fe3a6e2dd6d
 ---
