@@ -124,15 +124,23 @@ theme-override : assets/css/PITCHME.css
 現在、スライドの遷移は、
 「transition : convex」という設定です。
 ---
+aaa
+
 @transition[zoom-in fade-out]
 あああ
 ---
+bbb
+
 @transition[concave]
 いいい
 ---
+bbb
+
 @transition[fade]
 ううう
 ---
+bbb
+
 @transition[slide]
 えええ
 ---
