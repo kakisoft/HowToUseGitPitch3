@@ -181,12 +181,33 @@ east, west, south, north
 midpoint
 ```
 ---
+### Go GitPitch Pro!
+
+<br>docker
+<div class="left">
+    <i class="fa fa-city fa-5x" aria-hidden="true"> </i><br>
+    <i class="fa fa-docker fa-5x" aria-hidden="true"> </i><br>
+    <a href="https://gitpitch.com/pro-features" class="pro-link">
+    More details here.</a>
+</div>
+<div class="right">
+    <ul>
+        <li>Private Repos</li>
+        <li>Private URLs</li>
+        <li>Password-Protection</li>
+        <li>Image Opacity</li>
+        <li>SVG Image Support</li>
+    </ul>
+</div>
 
 
 
 
 
-
+---
+---
+---
+---
 ---
 たいとる
 ---
