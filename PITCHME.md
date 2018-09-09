@@ -52,10 +52,9 @@ GitHubアカウントがあれば、マークダウンで
 <pre class="code" data-lang="" data-unlink>chage --list ユーザー名</pre>
 <pre class="code" data-lang="" data-unlink>@size[2.5em](こんな感じ)</pre>
 ---
-
-書き方は、**@size\[2.5em\](こんな感じ)** です。
+書き方は、**『@size\[2.5em\](こんな感じ)』** です。
 　  
-@size[1.1em](@sizeを記述し、\[フォントサイズ\]\(文字))と、 
+@size[1.1em](「@size」を記述し、\[フォントサイズ\]\ (文字))と、  
 記述します。
 ---
 x
