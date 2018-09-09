@@ -168,12 +168,13 @@ fade, none, slide, zoom
 @snapend
 ---
 書き方は、  
-**『@snap\[ポジション\]内容@snap』** です。
+**『@snap\[ポジション\] 内容 @snap』** です。
 
 ポジションは、以下が設定できます。
 ```
 east, west, south, north
 midpoint
+```
 ---
 
 
