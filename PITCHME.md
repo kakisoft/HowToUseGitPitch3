@@ -31,26 +31,11 @@ GitHubアカウントがあれば、マークダウンで
 
 
 ---
-## フォントサイズ
----
-フォントサイズ
----
-@size[size-value](your-content)
----
-# @size[3.5em](OK)
+### フォントサイズ
 ---
 @size[2.5em](こんな感じ)に、  
 フォントのサイズを  
 自由に変更できるようになりました。
----
-書き方は、```@size[2.5em](こんな感じ)``` です。  
-　  
-書き方は、<pre>@size[2.5em](こんな感じ)</pre> です。
-
-書き方は、\@size[2.5em](こんな感じ) です。  
-　  
-<pre class="code" data-lang="" data-unlink>chage --list ユーザー名</pre>
-<pre class="code" data-lang="" data-unlink>@size[2.5em](こんな感じ)</pre>
 ---
 書き方は、**『@size\[2.5em\](こんな感じ)』** です。
 　  
