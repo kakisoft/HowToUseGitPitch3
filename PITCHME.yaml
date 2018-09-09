@@ -10,5 +10,4 @@ theme-override : assets/css/PITCHME.css
 highlight : hybrid
 logo : assets/image/logo.png
 transition : zoom
-published : true
-footnote : "GitPitch [ Aqua ] Presentation Template"
+footnote :  "© 2018 kakisoft"
