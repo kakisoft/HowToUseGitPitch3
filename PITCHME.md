@@ -147,6 +147,8 @@ fade, none, slide, zoom
 ---
 ### 文字の配置
 ---
+@transition[none]
+
 @snap[north]
 こんな感じで
 @snapend
