@@ -53,10 +53,17 @@ GitHubアカウントがあれば、マークダウンで
 
 ### フォントカラー
 ---
-### @color[orange](ACME Corp Clearance Sale)
+### @color[blue](ACME Corp Clearance Sale)
+
+@size[2.5em](@color[blue](ACME Corp Clearance Sale))に、  
 
 #### Dynamite Deals - @color[#DC143C](Short Fuses) Included!
-
+---
+書き方は、**『@color\[blue\](こんな感じ)』** です。
+　  
+　  
+@size[1.1em](「@color」を記述し、\[色\] (文字))  
+と、記述します。
 ---
 書き方は、**『@size\[2.5em\](こんな感じ)』** です。
 　  
