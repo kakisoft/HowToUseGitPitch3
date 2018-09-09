@@ -79,14 +79,21 @@ theme-override : assets/css/PITCHME.css
 ```
 
 ---
-例えば、以下のような css を記述したとします。
+例えば、以下のような css を記述し、
 ```css
 .headline {
   color: blue;
-  text-transform: uppercase;
+  font-size: 1.2em;
 }
 ```
+@css[headline](自由に編集)できます。
 ---
+書き方は、**『@css\[クラス\](こんな感じ)』** です。
+　  
+　  
+@size[1.1em](「@css」を記述し、\[クラス\] (文字))  
+と、記述します。
+
 ### @css[headline](ACME Corp Clearance Sale)
 ---
 ---
