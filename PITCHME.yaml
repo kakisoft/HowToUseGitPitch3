@@ -9,6 +9,6 @@ theme-override : assets/css/PITCHME.css
 # theme-override : assets/css/PITCHME.codemax.css
 highlight : hybrid
 logo : assets/image/logo.png
-transition : convex
+transition : concave
 published : true
 footnote : "GitPitch [ Aqua ] Presentation Template"
