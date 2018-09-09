@@ -125,9 +125,16 @@ theme-override : assets/css/PITCHME.css
 「transition : convex」という設定です。
 ---
 @transition[zoom-in fade-out]
+あああ
 ---
 @transition[concave]
-
+いいい
+---
+@transition[fade]
+ううう
+---
+@transition[slide]
+えええ
 ---
 書き方は、**『@quote\[こんな感じ\]』** です。
 ---
