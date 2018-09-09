@@ -86,7 +86,8 @@ theme-override : assets/css/PITCHME.css
   font-size: 1.5em;
 }
 ```
-こんな感じに @css[headline](使う事が出来ます。)
+こんな感じに 
+@css[headline](使う事が出来ます。)
 ---
 書き方は、**『@css\[クラス\](内容)』** です。
 　  
