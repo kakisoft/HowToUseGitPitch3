@@ -4,12 +4,11 @@
 # For details, visit Wiki:
 # https://github.com/gitpitch/gitpitch/wiki/Slideshow-Settings
 #
-#theme : beige
-theme : blue
+theme : beige
 theme-override : assets/css/PITCHME.css
 # theme-override : assets/css/PITCHME.codemax.css
 highlight : hybrid
 logo : assets/image/logo.png
-transition : none
+transition : convex
 published : true
 footnote : "GitPitch [ Aqua ] Presentation Template"
