@@ -138,7 +138,7 @@ theme-override : assets/css/PITCHME.css
 変える事が出来ます。
 ---
 書き方は、**『@transition\[遷移タイプ\]』** です。
-
+　  
 遷移タイプは、以下が設定できます。
 ```
 convex, concave, default,
@@ -168,17 +168,9 @@ fade, none, slide, zoom
 @snapend
 ---
 書き方は、  
-**『\@snap\[ポジション\] 』**
-内容 
-**『\@snap』** です。
-
-
-
-@quote[@snap[ポジション]<br>内容<br>@snapend]  
+@quote[@snap\[ポジション\]<br>内容<br>@snapend]  
 です。
-
-
-
+　  
 ポジションは、以下が設定できます。
 ```
 east, west, south, north
