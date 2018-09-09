@@ -145,28 +145,28 @@ convex, concave, default,
 fade, none, slide, zoom
 ```
 ---
-
+### 文字の配置
 ---
 @transition[none]
 
 @snap[north]
-North
+こんな感じで
 @snapend
 
 @snap[east]
-East
+自由に
 @snapend
 
 @snap[south]
-South
+文字を
 @snapend
 
 @snap[west]
-West
+並べる事が
 @snapend
   
 @snap[midpoint]
-MidPoint
+できます
 @snapend
 
 
