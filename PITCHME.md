@@ -172,6 +172,13 @@ fade, none, slide, zoom
 内容 
 **『\@snap』** です。
 
+
+
+@quote[@snap[ポジション]<br>内容<br>@snapend]  
+です。
+
+
+
 ポジションは、以下が設定できます。
 ```
 east, west, south, north
