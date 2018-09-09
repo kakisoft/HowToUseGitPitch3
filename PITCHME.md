@@ -195,12 +195,11 @@ midpoint
     </ul>
 </div>
 ---
-興味が沸いた方は、是非使ってみて下さい。  
+興味が沸いた方は、是非使ってみて下さい！  
 https://gitpitch.com/
 ---
 また、このスライドのリポジトリは、  
 [こちら](https://github.com/kakisoft/HowToUseGitPitch3)です。
----
 ---?image=assets/image/gitpitch-audience.jpg
-おわり
+@size[2.0em](@color[white]](おわり))
 
