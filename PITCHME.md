@@ -181,7 +181,7 @@ midpoint
 
 <br>docker
 <div class="left">
-    <i class="fab fa-docker" aria-hidden="true"></i><br>
+    <i class="fas fa-archway fa-5x" aria-hidden="true"> </i><br>
     <a href="https://https://gitpitch.com/" class="pro-link">
     More details here.</a>
 </div>
