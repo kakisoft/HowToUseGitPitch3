@@ -130,13 +130,13 @@ theme-override : assets/css/PITCHME.css
 @transition[concave]
 こうしたり
 ---
-@transition[fade]
+@transition[zoom]
 こうしたり
 ---
 @transition[slide]
 こんな感じで
 ---
-@transition[zoom]
+@transition[fade]
 スライドのアニメーションを  
 変える事が出来ます。
 ---
