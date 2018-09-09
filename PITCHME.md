@@ -147,28 +147,38 @@ fade, none, slide, zoom
 ---
 ### 文字の配置
 ---
-@transition[none]
-
 @snap[north]
 こんな感じで
 @snapend
 
-@snap[east]
+@snap[west]
 自由に
 @snapend
 
-@snap[south]
+@snap[midpoint]
 文字を
 @snapend
 
-@snap[west]
-配置する事が
-@snapend
-  
-@snap[midpoint]
+@snap[east]
 できます
 @snapend
 
+@snap[south]
+配置する事が
+@snapend
+---
+書き方は、  
+**
+『@snap\[ポジション\]
+　内容
+　@snap』
+** です。
+
+ポジションは、以下が設定できます。
+```
+east, west, south, north
+midpoint
+---
 
 
 
