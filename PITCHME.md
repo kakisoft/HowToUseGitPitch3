@@ -92,7 +92,7 @@ theme-override : assets/css/PITCHME.css
 @fa[github icon-size3](使えるようになっています)  
 ---
 書き方は、**『@fa\[アイコン名 サイズ\](テキスト)』**   
-です。
+です。    
 　  
 サイズと文字は省略可能です。  
 また、CSSを適用する事もできます。
