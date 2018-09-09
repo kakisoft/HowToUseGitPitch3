@@ -110,9 +110,6 @@ theme-override : assets/css/PITCHME.css
 無料枠から探す場合、「Free」にチェックを  
 入れておくといいかと思います。
 ---
-
-
----
 ### 引用
 ---
 @quote[こんな感じで、引用符を<br>記述できます。]
@@ -149,7 +146,28 @@ fade, none, slide, zoom
 ```
 ---
 
+---
+@transition[none]
 
+@snap[north]
+North
+@snapend
+
+@snap[east]
+East
+@snapend
+
+@snap[south]
+South
+@snapend
+
+@snap[west]
+West
+@snapend
+  
+@snap[midpoint]
+MidPoint
+@snapend
 
 
 
