@@ -195,59 +195,9 @@ midpoint
     </ul>
 </div>
 ---
+興味が沸いた方は、是非使ってみて下さい。  
+https://gitpitch.com/
 ---
----
----
----
----
-たいとる
----
-@title[Some custom label]
-
-## Your slide contents goes here.
----
-x
----
----
-
----
-
----
-
-## Go GitPitch Pro!
-
-<br>
-<div class="left">
-    <i class="fa fa-user-secret fa-5x" aria-hidden="true"> </i><br>
-    <a href="https://gitpitch.com/pro-features" class="pro-link">
-    More details here.</a>
-</div>
-<div class="right">
-    <ul>
-        <li>Private Repos</li>
-        <li>Private URLs</li>
-        <li>Password-Protection</li>
-        <li>Image Opacity</li>
-        <li>SVG Image Support</li>
-    </ul>
-</div>
-
----
-
-### Questions?
-
-<br>
-
-@fa[twitter gp-contact](@gitpitch)
-
-@fa[github gp-contact](gitpitch)
-
-@fa[medium gp-contact](@gitpitch)
-
 ---?image=assets/image/gitpitch-audience.jpg
-
-@title[Download this Template!]
-
-### <span class="white">Get your presentation started!</span>
-### [Download this template @fa[external-link gp-download]](https://gitpitch.com/template/download/aqua)
+おわり
 
