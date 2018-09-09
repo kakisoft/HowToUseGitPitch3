@@ -1,97 +1,120 @@
-### GitHubだけで作成できるスライド
-　  
+# Aqua
 
-　  
-　  
-　　　　　垣花　暁
+### A GitPitch Presentation Template
+
 ---
-こんな感じのスライドが作れます。
+
+## Tips!
+
+<br>
+
+@fa[arrows gp-tip](Press F to go Fullscreen)
+
+@fa[microphone gp-tip](Press S for Speaker Notes)
+
 ---
-「GitPitch」というサービスを使っています。
+
+## Template Features
+
+- Code Presenting |
+- Repo Source, Static Blocks, GIST |
+- Custom CSS Styling |
+- Slideshow Background Image |
+- Slide-specific Background Images |
+- Custom Logo, TOC, and Footnotes |
+
+---?code=sample/go/server.go&lang=golang&title=Golang File
+
+@[1,3-6](Present code found within any repo source file.)
+@[8-18](Without ever leaving your slideshow.)
+@[19-28](Using GitPitch code-presenting with (optional) annotations.)
+
 ---
-必要なのは、GitHubアカウントのみ。
----
-作り方
----
-リポジトリを作成  
-<img src="assets/CreateNewRepository.png">
----
-リポジトリ名がスライドのURLとなります。  
-<img src="assets/EditRepositoryName.png"/>
----
-「Create New File」を選択  　
-<img src="assets/CreateNewFile.png"/>
----
-PITCHME.md  
-というファイルを作成します。  
-<img src="assets/AddPitchme.png"/>  
----
-内容はマークダウンで記述します。
----
-一方で、GitPitch独自の記法もあります。
----
-\-\-\-
-で、スライドが切り替わります。
----
-### Fragment Slides
-- 要素の先頭を「\-」で記述し |
-- 末尾に「\|」を記述すると |
-- １行ごとの表示単位で     |
-- アニメーションができます。|
----
-### Code Presenting
-コードブロックのハイライトができます。
-```js
-console.log("@[1]と書くと、1行目がハイライトされます。");
-console.log("@[2-4]といったように");
-console.log("複数行選択も");
-console.log("可能です。");
-console.log("eof");
+
+@title[JavaScript Block]
+
+<p><span class="slide-title">JavaScript Block</span></p>
+
+```javascript
+// Include http module.
+var http = require("http");
+
+// Create the server. Function passed as parameter
+// is called on every request made.
+http.createServer(function (request, response) {
+  // Attach listener on end event.  This event is
+  // called when client sent, awaiting response.
+  request.on("end", function () {
+    // Write headers to the response.
+    // HTTP 200 status, Content-Type text/plain.
+    response.writeHead(200, {
+      'Content-Type': 'text/plain'
+    });
+    // Send data and end response.
+    response.end('Hello HTTP!');
+  });
+
+// Listen on the 8080 port.
+}).listen(8080);
 ```
-@[1](ハイライト行の解説も記述できます。)
-@[2-4](コメントは[]の右に記述します。)
+
+@[1,2](You can present code inlined within your slide markdown too.)
+@[9-17](Displayed using code-syntax highlighting just like your IDE.)
+@[19-20](Again, all of this without ever leaving your slideshow.)
+
+---?gist=onetapbeyond/494e0fecaf0d6a2aa2acadfb8eb9d6e8&lang=scala&title=Scala GIST
+
+@[23](You can even present code found within any GitHub GIST.)
+@[41-53](GIST source code is beautifully rendered on any slide.)
+@[57-62](And code-presenting works seamlessly for GIST too, both online and offline.)
+
 ---
 
-　  
-\-\-\-?gist=kakisoft/92d3fc38dae2eadc97f4a2881fbfc695
-　  
-と記述することで、Gistも表示可能です。
+## Template Help
+
+- [Code Presenting](https://github.com/gitpitch/gitpitch/wiki/Code-Presenting)
+  + [Repo Source](https://github.com/gitpitch/gitpitch/wiki/Code-Delimiter-Slides), [Static Blocks](https://github.com/gitpitch/gitpitch/wiki/Code-Slides), [GIST](https://github.com/gitpitch/gitpitch/wiki/GIST-Slides) 
+- [Custom CSS Styling](https://github.com/gitpitch/gitpitch/wiki/Slideshow-Custom-CSS)
+- [Slideshow Background Image](https://github.com/gitpitch/gitpitch/wiki/Background-Setting)
+- [Slide-specific Background Images](https://github.com/gitpitch/gitpitch/wiki/Image-Slides#background)
+- [Custom Logo](https://github.com/gitpitch/gitpitch/wiki/Logo-Setting), [TOC](https://github.com/gitpitch/gitpitch/wiki/Table-of-Contents), and [Footnotes](https://github.com/gitpitch/gitpitch/wiki/Footnote-Setting)
+
 ---
-記述が終わったら、  
-Commit new fileで完了です。  
-<img src="assets/CommitNewFile.png"/>
+
+## Go GitPitch Pro!
+
+<br>
+<div class="left">
+    <i class="fa fa-user-secret fa-5x" aria-hidden="true"> </i><br>
+    <a href="https://gitpitch.com/pro-features" class="pro-link">
+    More details here.</a>
+</div>
+<div class="right">
+    <ul>
+        <li>Private Repos</li>
+        <li>Private URLs</li>
+        <li>Password-Protection</li>
+        <li>Image Opacity</li>
+        <li>SVG Image Support</li>
+    </ul>
+</div>
+
 ---
-URLは、   
-　  
-https://gitpitch.com/<ユーザ名>/<リポジトリ名>  
-　   
-となります。
----
-ブランチを切って  
-　  
-https://gitpitch.com/<ユーザ名>/<リポジトリ名>/<ブランチ名>  
-　  
-とする事もできます。
----
-スライド再生中に```F```を押すと、  
-フルスクリーンモードに切り替わります。  
-　  
-※F1キーではありません
----
-スライド再生中に```O```を押すと、  
-オーバービューモードに切り替わります。  
-　  
-※「オー」です。  
----
-各種操作の説明は、スライド再生中に  
-```?```を押すと確認可能です。  
----
-下のメニューより、  
-PDFファイルにする事も可能です。
----
-このスライドの PITCHME.md は、     
-[こんな感じ](https://github.com/kakisoft/HowToUseGitPitch/blob/master/PITCHME.md.txt)です。
----
-次のスライドでは、  
-設定ファイルについて説明しています。  
-https://gitpitch.com/kakisoft/HowToUseGitPitch2
+
+### Questions?
+
+<br>
+
+@fa[twitter gp-contact](@gitpitch)
+
+@fa[github gp-contact](gitpitch)
+
+@fa[medium gp-contact](@gitpitch)
+
+---?image=assets/image/gitpitch-audience.jpg
+
+@title[Download this Template!]
+
+### <span class="white">Get your presentation started!</span>
+### [Download this template @fa[external-link gp-download]](https://gitpitch.com/template/download/aqua)
+
