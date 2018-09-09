@@ -53,7 +53,7 @@ GitHubアカウントがあれば、マークダウンで
 <pre class="code" data-lang="" data-unlink>@size[2.5em](こんな感じ)</pre>
 ---
 ぎすと
-@ size[2.5em](こんな感じ)
+@ size\[2.5em\](こんな感じ)
 
 ?gist=kakisoft/f085aa99f25cfcb506671fe3a6e2dd6d
 ---
