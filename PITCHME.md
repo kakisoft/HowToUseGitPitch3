@@ -103,10 +103,11 @@ theme-override : assets/css/PITCHME.css
 サイズと文字は省略可能です。
 ---
 アイコンギャラリーは [こちら](https://fontawesome.com/icons?from=io)です。
+　  
+![alt](assets/image/icon-gallery.png)  
 
-?image=assets/image/icon-gallery.png  
-
-無料枠から探す場合、「Free」にチェックを入れておくといいかと思います。
+無料枠から探す場合、「Free」にチェックを  
+入れておくといいかと思います。
 
 
 
