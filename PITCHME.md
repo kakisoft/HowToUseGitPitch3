@@ -36,10 +36,6 @@ GitHubアカウントがあれば、マークダウンで
 ---
 追加機能
 ---
-## テーマ
-
-
----
 ### フォントサイズ
 ---
 @size[2.5em](こんな感じ)に、  
@@ -185,8 +181,6 @@ midpoint
 
 <br>docker
 <div class="left">
-    <i class="fas fa-city fa-5x" aria-hidden="true"> </i><br>
-    <i class="fab fa-docker fa-5x" aria-hidden="true"> </i><br>
     <i class="fa fa-user-secret fa-5x" aria-hidden="true"> </i><br>
     <a href="https://https://gitpitch.com/" class="pro-link">
     More details here.</a>
@@ -200,6 +194,9 @@ midpoint
         <li>SVG Image Support</li>
     </ul>
 </div>
+---
+    <i class="fas fa-city fa-5x" aria-hidden="true"> </i><br>
+    <i class="fab fa-docker fa-5x" aria-hidden="true"> </i><br>
 
 
 
