@@ -199,5 +199,5 @@ https://gitpitch.com/
 また、このスライドのリポジトリは、  
 [こちら](https://github.com/kakisoft/HowToUseGitPitch3)です。
 ---?image=assets/image/gitpitch-audience.jpg
-@size[2.0em](@color[white]](おわり))
+@size[2.0em](@color[white](おわり))
 
