@@ -170,7 +170,9 @@ fade, none, slide, zoom
 @snapend
 ---
 書き方は、  
+___
 @ snap\[ポジション\]<br>内容<br>@ snapend  
+___
 です。
 　  
 ポジションは、以下が設定できます。
