@@ -115,7 +115,8 @@ theme-override : assets/css/PITCHME.css
 ---
 ### 引用
 ---
-@quote[こんな感じで、引用符を記述できます。]
+@quote[こんな感じで、引用符を  
+記述できます。]
 ---
 書き方は、**『@quote\[こんな感じ\]』** です。
 ---
