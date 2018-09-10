@@ -26,7 +26,7 @@ GitHubアカウントがあれば、マークダウンで
 色々と機能が増えているので、  
 もう少し使ってみました。
 ---
-基本的な使い方は、[https://gitpitch.com/kakisoft/HowToUseGitPitch](こちらのスライド)  
+基本的な使い方は、[こちらのスライド](https://gitpitch.com/kakisoft/HowToUseGitPitch)  
 にて紹介しています。  
 　  
 初めて使う方は、上記のスライドを先に、  
