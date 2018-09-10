@@ -91,7 +91,7 @@ theme-override : assets/css/PITCHME.css
 　  
 @fa[github icon-size3](使えるようになっています)  
 　  
-@fa[bolt fa-3x](大きさも指定できます)  
+@fa[bolt fa-2x](大きさも指定できます)  
 ---
 書き方は、**『@fa\[アイコン名 サイズ\](テキスト)』**   
 です。    
