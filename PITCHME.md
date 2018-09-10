@@ -90,6 +90,8 @@ theme-override : assets/css/PITCHME.css
 @fa[twitter icon-size2](色々なアイコンが)  
 　  
 @fa[github icon-size3](使えるようになっています)  
+　  
+@fa[github fa-5x](大きさも指定できます)  
 ---
 書き方は、**『@fa\[アイコン名 サイズ\](テキスト)』**   
 です。    
