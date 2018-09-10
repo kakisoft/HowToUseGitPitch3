@@ -103,8 +103,8 @@ theme-override : assets/css/PITCHME.css
 　  
 ![alt](assets/image/icon-gallery.png)  
 
-何が使えて、何が使えないか良くわからなかったので、  
-[https://gitpitch.com/kakisoft/GitPitchIconList#/](使えるアイコンをリストアップしました。)
+何が使えて、何が使えないか良く分からないので、  
+[使えるアイコンをリストアップしました。](https://gitpitch.com/kakisoft/GitPitchIconList#/)
 ---
 ### 引用
 ---
