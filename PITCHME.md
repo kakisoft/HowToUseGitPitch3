@@ -99,12 +99,12 @@ theme-override : assets/css/PITCHME.css
 サイズと文字は省略可能です。  
 また、CSSを適用する事もできます。
 ---
-アイコンギャラリーは [こちら](https://fontawesome.com/icons?from=io)です。
+アイコンギャラリーは [こちら](https://fontawesome.com/icons?from=io)。
 　  
 ![alt](assets/image/icon-gallery.png)  
 
-無料枠から探す場合、「Free」にチェックを  
-入れておくといいかと思います。
+何が使えて、何が使えないか良くわからなかったので、  
+[https://gitpitch.com/kakisoft/GitPitchIconList#/](使えるアイコンをリストアップしました。)
 ---
 ### 引用
 ---
